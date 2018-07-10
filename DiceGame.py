@@ -13,6 +13,6 @@ print'Die 2:', y
 print'Total value:', x+y
 
 if x+y>=8:
-    print 'you won!'
+    print s,'won!'
 else:
-    print 'you lost!'
+    print s,'lost!'
